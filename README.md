@@ -19,7 +19,7 @@ locally. See DEVELOPER-NOTES.txt for a list of the variables you probably want t
 possible suggestions for values to use.
 
 ## Requirements
-The script requires Python 2.7. For earlier versions of Python, `argparse` might need to be installed, 
+The script requires Python 2.7. For earlier versions of Python, argparse might need to be installed, 
 which can be done using `easy_install argparse`.
 
 ## Acknowledgements
